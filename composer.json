@@ -1,0 +1,12 @@
+{
+    "name": "dell/para_parcial",
+    "authors": [
+        {
+            "name": "Gisele",
+            "email": "giselemedina01@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "8.0.10"
+    }
+}
